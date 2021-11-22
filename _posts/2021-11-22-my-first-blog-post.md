@@ -1,4 +1,9 @@
-# CV NOELIA F. FDEZ
+---
+title: "Mi CV"
+date: 2021-11-22
+---
+
+# NOELIA F. FDEZ
 *Programadora de Sistemas, Desarrolladora Web, Psicóloga*
 - [Linkedin](https://www.linkedin.com/in/noelia-figueiras-fern%C3%A1ndez/)
 
